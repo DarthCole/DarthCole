@@ -2,7 +2,7 @@
 - 🎓 Currently an undergaduate student Ashesi Univeristy, Ghana, studying Computer Science.
 - 🌐 I’m interested in Fullstack Software Engineering, artifical intelligence, & Machine Learning
 - 💯 I’m currently learning C++, HTML, JavaScript, & React.
-- ⚡ Fun fact: I love watching films 🍿, reading books 📖, and learning new things 💡.
+- ⚡ Fun fact: I love watching films 🎥, reading books 📖, and learning new things 💡.
   
 <!---
 DarthCole/DarthCole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
