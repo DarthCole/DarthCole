@@ -1,6 +1,6 @@
 - 👋🏽 My name is Kobina Kyereboah-Coleman.
 - 🎓 Currently an undergaduate student Ashesi Univeristy, Ghana, studying Computer Science.
-- 🌐 I’m interested in Fullstack Software Engineering, artifical intelligence, & Machine Learning
+- 🌐 I’m interested in Fullstack Software Engineering, Artifical Intelligence, & Machine Learning
 - 💯 I’m currently learning C++, HTML, JavaScript, & React.
 - ⚡ Fun fact: I love watching films 🎥, reading books 📖, and learning new things 💡.
   
